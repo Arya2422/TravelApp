@@ -1,0 +1,16 @@
+# Node
+node_modules/
+npm-debug.log*
+yarn.lock
+
+# Environment files
+.env
+.env.*
+
+# Build files
+Personal/dist
+Personal/build
+
+# OS
+.DS_Store
+Thumbs.db
